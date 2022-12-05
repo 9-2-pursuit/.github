@@ -7,6 +7,9 @@ This GitHub organization is where you will find content and exercises for this c
 ## Resources
 
 You may find the following links useful:
+- <a href="https://canvas.instructure.com/courses/5753718" target="_blank">Our Canvas Course</a>
+- <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0wC64MXNu6TEk3wqeKvp6iagOdrfThyQ40CIRifWqcqpSvGYtKbKRDS0cn0ivx9NH0ftbPa07Q" target="_blank">Steven's Office Hours Sign-up</a>
+- <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2mziSjh6AaIsrvjVLZDCZl2_c87qlTYPrnW4YRukGZUkehEk7NfsjLwVlabAukxcWb5MWap3Tf" target="_blank">Steven's Office Hours Sign-up</a>
 
 - [Our Canvas Course](https://canvas.instructure.com/courses/5753718)
 - [Steven's Office Hours Sign-up](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0wC64MXNu6TEk3wqeKvp6iagOdrfThyQ40CIRifWqcqpSvGYtKbKRDS0cn0ivx9NH0ftbPa07Q)
